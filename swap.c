@@ -7,7 +7,7 @@ void swap(int *a, int *b) {
 }
 
 int main(void) {
-	int a = 10;
+	int a = 200;
 	int b = 300;
 	//Before swap
 	printf("%d %d\n", a, b);
